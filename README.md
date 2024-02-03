@@ -1,4 +1,4 @@
-# apnacollege--demo
-This is my first Git Repository.
+# Landing page project
+Hello!!
 <Br>
 Author - Aadish Adlak
